@@ -9,7 +9,7 @@ module.exports = {
     siteTitle: `Damien w/ Gatsby Theme`,
     siteTitleAlt: `Damien`,
     siteHeadline: `Damien `,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `http://cv.damien.link/`,
     siteDescription: `Welcome on my resume`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
