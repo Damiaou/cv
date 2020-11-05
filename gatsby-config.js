@@ -6,10 +6,18 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
   siteMetadata: {
+    siteTitle: `Damien w/ Gatsby Theme`,
+    siteTitleAlt: `Damien`,
+    siteHeadline: `Damien `,
+    siteUrl: `https://cara.lekoarts.de`,
+    siteDescription: `Welcome on my resume`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `@damiaou`,
+    basePath,
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
   },
   plugins: [
     {
